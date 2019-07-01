@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio with NextJs",
+  "main": "index.js",
+  "scripts": {
+    "start": "next",
+    "build": "next build",
+    "prod": "next start"
+  },
+  "keywords": [],
+  "author": "Julio Romero",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
